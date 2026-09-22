@@ -11,5 +11,5 @@ get a reply within a week.
 ## Scope
 
 The scripts run on your own PC as your Windows user. They read your World of Warcraft `WTF` folder
-and write only to the `!ForeverRestore` addon folder and `%LOCALAPPDATA%\ForeverSavedVars`. They make
-no network connections.
+and write only to the `!ForeverRestore` addon folder and `%LOCALAPPDATA%\ForeverSavedVars`. The
+installer registers one scheduled task for your user. The scripts make no network connections.
