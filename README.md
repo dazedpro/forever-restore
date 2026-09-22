@@ -1,4 +1,4 @@
-# forever-savedvars
+# forever-restore
 
 Keeps addon settings on the WoW Forever beta client (`_classic_beta_`) from being lost on `/reload`,
 logout and restart.
